@@ -14,6 +14,9 @@ arguments worth keeping around. It's less a blog and more a workshop.
   serves four distinct functions (context, handoff, evidence, reference) across
   multiple organisational levels, and why where each artefact lives depends on
   both its function and its level.
+- **The Team That No Longer Fits** — on why the standard engineering team was
+  built around the scarcity of code production, and how that structure should
+  change now that AI tooling has made production cheap.
 
 ## Elsewhere
 
