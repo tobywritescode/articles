@@ -17,6 +17,9 @@ arguments worth keeping around. It's less a blog and more a workshop.
 - **The Team That No Longer Fits** — on why the standard engineering team was
   built around the scarcity of code production, and how that structure should
   change now that AI tooling has made production cheap.
+- **The Bottleneck Moved** — on why code review has become the real constraint
+  in AI-accelerated engineering, and why the single-reviewer model needs to be
+  redesigned rather than asked to read faster.
 
 ## Elsewhere
 
