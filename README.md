@@ -21,6 +21,14 @@ arguments worth keeping around. It's less a blog and more a workshop.
   in AI-accelerated engineering, and why the single-reviewer model needs to be
   redesigned rather than asked to read faster.
 
+## Changelog discipline
+
+These essays are written in a deliberately stripped-down style: conclusions stated, most of the argument removed. That puts the weight on the essays cohering with one another, because the reader is taking the conclusions partly on trust and has no in-text argument to fall back on. When a position changes across essays without being acknowledged, it reads as contradiction rather than as thinking developing.
+
+So before publishing a new essay, check it against the existing ones. If it extends, modifies, or retracts a position taken in an earlier essay, say so in a short note at the head of the essay, set apart from the argument. One line per relationship is enough: "This extends X" / "This revises the view in X" / "This retracts the claim in X." If the essay touches no earlier position, no note is needed.
+
+The point is not cross-referencing for its own sake. It is to let a reader tell evolution from contradiction.
+
 ## Elsewhere
 
 More of my work lives at [tobynichol.computer](https://tobynichol.computer).
