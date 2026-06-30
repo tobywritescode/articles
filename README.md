@@ -20,6 +20,9 @@ arguments worth keeping around. It's less a blog and more a workshop.
 - **The Bottleneck Moved** — on why code review has become the real constraint
   in AI-accelerated engineering, and why the single-reviewer model needs to be
   redesigned rather than asked to read faster.
+- **What Slow Building Was Doing** — on how the discovery that iterative building
+  used to surface during a slow build now has to happen up front, because fast
+  building no longer lasts long enough to host it.
 
 ## Changelog discipline
 

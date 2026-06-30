@@ -1,0 +1,13 @@
+# This repo holds only the README and the article PDFs.
+# Markdown sources, working notes, and the PDF build tooling stay local.
+
+# Markdown sources and notes (README is the one exception)
+*.md
+!README.md
+
+# PDF build tooling
+build_pdf.py
+pyproject.toml
+poetry.lock
+__pycache__/
+.venv/
